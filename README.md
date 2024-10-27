@@ -1,0 +1,2 @@
+# singkatan-dictionary
+kamus penejemah
